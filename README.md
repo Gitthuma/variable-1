@@ -7,3 +7,5 @@ In this task we want you to:
 3. Declare a variable called myAge and initialize it with a value, on the same line.
 
 Ref: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Test_your_skills:_variables
+
+Live web: https://gitthuma.github.io/variable-1/
